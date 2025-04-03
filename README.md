@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hey! I'm Tanishq Salkar 👋</h1>
+<h3 align="center">Data Scientist | Software Engineer | Researcher</h3>
 
-<!--
-**tan32217/tan32217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/USC-Data%20Science%20MS-red" alt="USC MS Data Science"/>
+  <img src="https://img.shields.io/badge/Python-Expert-blue"/>
+  <img src="https://img.shields.io/badge/React-Fullstack-informational"/>
+  <img src="https://img.shields.io/badge/AWS-Certified-success"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍🔬 About Me
+
+I’m a **Research Assistant at USC Information Sciences Institute** and a Master’s student in **Applied Data Science** at the **University of Southern California**. With prior experience as a **Senior Software Engineer at Larsen & Toubro**, I specialize in building intelligent data systems, scalable pipelines, and user-centric full-stack applications.
+
+I thrive on solving complex problems using **AI**, **ML**, and **Big Data**, and I’m passionate about working at the intersection of research and real-world impact.
+
+---
+
+### 🚀 What I Do
+
+- 🔍 **Research & NLP:** Transcribing, clustering, and analyzing 4M+ social media videos using LLMs (Whisper, BERT, Meta Llama, Gemini).
+- ⚙️ **Engineering Scalable Systems:** CUDA-accelerated processing, MongoDB/SQL workflows, REST APIs, and cloud deployments (GCP, AWS).
+- 🧠 **AI & Modeling:** Supervised/unsupervised learning, fairness in AI, fraud detection, recommender systems.
+- 🌐 **Full-Stack Development:** React, TypeScript, Node.js, Flask, Streamlit apps for data-driven interfaces.
+
+---
+
+### 🧰 Tech Stack
+
+- **Languages:** Python, Java, C, SQL, TypeScript  
+- **Libraries & Tools:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, NetworkX, Plotly  
+- **Cloud & Big Data:** AWS, GCP, Spark, MongoDB, Hadoop, Hive  
+- **Web Dev:** React, Node.js, Flask, Streamlit  
+- **Other:** CUDA, Git, Slurm, Power BI, Tableau
+
+---
+
+### 📌 Pinned Projects
+
+🔹 [**Enron Email Dataset Analysis**](https://github.com/tan32217/Enron_email_dataset_analysis)  
+500K+ emails analyzed using Python and NetworkX to uncover organizational dynamics behind Enron’s collapse.
+
+🔹 [**ChatDB**](https://github.com/tan32217/ChatDB)  
+Interactive SQL/NoSQL query assistant with a React frontend and NLP backend for natural language database queries.
+
+🔹 [**React Weather App**](https://github.com/tan32217/React-Weather-Application)  
+Real-time weather forecasts with favorites, charts, MongoDB storage, and GCP deployment.
+
+🔹 [**iOS Weather App**](https://github.com/tan32217/IOS-Weather-App)  
+Swift-based weather app delivering forecast data with a clean UI and efficient data caching.
+
+🔹 [**Algorithmic Trading using Indicators**](https://github.com/tan32217/Alorithmic-Trading-Using-Technical-Indicators)  
+Backtested strategies built on Python-based technical indicators for automated stock trading.
+
+🔹 [**Streamlit Crime-Rent App**](https://github.com/tan32217/Streamlit_app)  
+Analyzed crime rates and public transport data to study apartment rent patterns in Los Angeles.
+
+---
+
+### 📫 Let’s Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tanishqsalkar)  
+- 🧠 [Google Scholar](mailto:Google%20Scholar)  
+- 💻 [GitHub](https://github.com/tan32217)  
+- ✉️ salkar@isi.edu  
+- 📍 Los Angeles, CA
+
+---
+
+_“Data is the new oil, and I’m here to refine it into insights that drive impact.”_ 💡
