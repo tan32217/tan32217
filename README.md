@@ -62,7 +62,7 @@ Analyzed crime rates and public transport data to study apartment rent patterns 
 ### 📫 Let’s Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tanishqsalkar)  
-- 🧠 [Google Scholar](mailto:Google%20Scholar)  
+- 🧠 [Google Scholar](https://scholar.google.com/citations?user=Pe994ssAAAAJ&hl=en)  
 - 💻 [GitHub](https://github.com/tan32217)  
 - ✉️ salkar@isi.edu  
 - 📍 Los Angeles, CA
