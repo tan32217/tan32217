@@ -38,6 +38,8 @@ I thrive on solving complex problems using **AI**, **ML**, and **Big Data**, and
 ---
 
 ### 📌 Pinned Projects
+🔹 [**Hybrid Recommendation System**]([https://github.com/tan32217/Enron_email_dataset_analysis](https://github.com/tan32217/Yelp-Recommendation-System))  
+A Recommendation System that blends XGBoost and SVD predictions using Ridge Regression to improve rating prediction accuracy on the Yelp dataset.
 
 🔹 [**Enron Email Dataset Analysis**](https://github.com/tan32217/Enron_email_dataset_analysis)  
 500K+ emails analyzed using Python and NetworkX to uncover organizational dynamics behind Enron’s collapse.
