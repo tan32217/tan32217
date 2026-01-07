@@ -12,7 +12,7 @@
 
 ### 👨‍🔬 About Me
 
-I’m a **Research Assistant at USC Information Sciences Institute** and a Master’s student in **Applied Data Science** at the **University of Southern California**. With prior experience as a **Senior Software Engineer at Larsen & Toubro**, I specialize in building intelligent data systems, scalable pipelines, and user-centric full-stack applications.
+I’m a **Research Assistant at USC Information Sciences Institute** and a Master’s student in **Applied Data Science** at the **University of Southern California**. With prior experience as a **Software Engineer at LTIMindtree**, I specialize in building intelligent data systems, scalable pipelines, and user-centric full-stack applications.
 
 I thrive on solving complex problems using **AI**, **ML**, and **Big Data**, and I’m passionate about working at the intersection of research and real-world impact.
 
