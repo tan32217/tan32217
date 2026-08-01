@@ -22,9 +22,11 @@
 
 ### 👨‍🔬 About Me
 
-I'm an **AI Platform Engineer at Clai**, where I build production **GenAI systems** for automated document intelligence — turning messy PDFs into structured, searchable, queryable data.
+I'm an AI Engineer at DotNex.ai, where I build AI systems for detecting coordinated behavior and emerging patterns across large-scale, multimodal datasets. My work combines LLMs, graph analysis, computer vision, and scalable data pipelines to identify meaningful connections across text, video, audio, and user activity.
 
-I hold an **MS in Computer Science** from the **University of Southern California**, and previously spent 2+ years as a **Software Engineer at LTIMindtree** building high-reliability banking payment integrations. I love working at the seam where **research meets shipped product** — LLMs, computer vision, and the scalable cloud infra that makes them real.
+I hold an MS in Computer Science from the University of Southern California, where my research focused on detecting coordinated inauthentic behavior across millions of TikTok posts during the 2024 U.S. election. Previously, I spent more than two years as a Software Engineer at LTIMindtree, building high-reliability banking payment integrations.
+
+I enjoy working at the intersection of research and production, turning complex AI methods into reliable systems that solve real-world problems.
 
 ---
 
